@@ -11,6 +11,6 @@ The objective of this project was to provide a comprehensive view of business pe
 * How does performance vary across different regions and product categories?
 * What are the key customer segments, and how do their purchasing behaviors differ?
 
-**3. Demo** <br>
+**3. Demo Preview** <br>
 
- ![Maven Market Analysis](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/blob/main/Maven_Market.pdf)
+[![View Report](screenshots/report-preview.png)]([docs/maven-market-dashboard.pdf](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/blob/main/Maven_Market.pdf))

@@ -15,5 +15,6 @@ The objective of this project was to provide a comprehensive view of business pe
 
  ![1](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/blob/main/Images/1.png) <br>
  ![2](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/blob/main/Images/2.png) <br>
+ ![2.1](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/blob/main/Images/2.1.png) <br>
  ![3](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/blob/main/Images/3.png) <br>
  ![4](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/blob/main/Images/4.png) <br>
